@@ -33,3 +33,7 @@ h1 {
     margin-bottom: 40px;
     font-weight: 400;
 }
+
+h1 span {
+    font-weight: 700;
+}
